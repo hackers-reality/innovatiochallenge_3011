@@ -15,7 +15,7 @@ In today's digital landscape, cybersecurity is crucial for protecting both finan
 - **Malware**: Malicious software designed to disrupt, damage, or gain unauthorized access to systems.
 - **Data Breaches**: Unauthorized access to confidential data, often leading to identity theft.
 
-## Prototype App Features
+## OUR Prototype App Features
 1. **Encryption**: Strong encryption protocols protect user data during transmission and at rest.
 2. **Two-Factor Authentication**: Adds an extra layer of security by requiring a secondary verification method.
 3. **Regular Security Updates**: The app receives updates to address emerging threats and vulnerabilities.
@@ -30,7 +30,7 @@ In today's digital landscape, cybersecurity is crucial for protecting both finan
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
 ## Contact
-For inquiries or feedback, please reach out to [phulariarnav].
+For inquiries or feedback, please reach out to [phulariarnav@gmail.com].
 
 ## Conclusion
 Cybersecurity is a fundamental aspect of our digital lives. By utilizing this prototype app and implementing strong security measures, users can protect themselves from a wide range of cyber threats. Together, we can create a safer online environment for everyone.
